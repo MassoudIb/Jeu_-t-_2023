@@ -1,5 +1,0 @@
-C:\Users\Saad Belgana\Desktop\Cours\x64\Debug\ProjetTest.exe
-C:\Users\Saad Belgana\Desktop\INF1015_E23\Cours\x64\Debug\ProjetTest.exe
-C:\Users\Massoud\Desktop\polyEte2023\Projet\livrable1\x64\Debug\ProjetTest.exe
-C:\Users\Massoud\Desktop\PROJ_1538561\x64\Debug\ProjetTest.exe
-C:\Users\Massoud\Documents\Polytechnique\polyEte2023\Projet\livrable1\x64\Debug\ProjetTest.exe
